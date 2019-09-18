@@ -4,7 +4,8 @@ Project OCR in node API with send photo with legend in english using [tesseract.
 
 It's free look at the demo!
 
-! [] (demo/demo.gif)
+- Demo
+<img src='./demo/app.gif'>
 
 ## Getting Started
 
